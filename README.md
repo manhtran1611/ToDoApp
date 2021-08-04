@@ -1,10 +1,17 @@
-# Getting Started with Create React App
+# To Do App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is an app to keep track of your tasks.
 
-## Available Scripts
+## Language
 
-In the project directory, you can run:
+Javascript
+CSS
+HTML
+
+## Technologies
+
+ReactJS
+NodeJS
 
 ### `yarn start`
 
